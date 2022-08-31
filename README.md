@@ -1,6 +1,6 @@
 # Pantheon Decoupled Kit Next WordPress Starter 12
 
-There are two ways to get started with the Next WordPress Starter:
+There are two ways to get started with the Next WordPress Starter: qa
 
 **Option 1**: Use `create-next-app`
 
