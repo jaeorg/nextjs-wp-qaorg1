@@ -1,4 +1,4 @@
-# Pantheon Decoupled Kit Next WordPress Starter 12
+# Pantheon Decoupled Kit Next WordPress Starter 122
 
 There are two ways to get started with the Next WordPress Starter:
 
