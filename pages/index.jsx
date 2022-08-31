@@ -1,4 +1,4 @@
-import { NextSeo } from "next-seo";
+import { NextSeo } from "next-seo"; 
 import Image from "next/image";
 import Layout from "../components/layout";
 import { PostGridItem, withGrid } from "../components/grid";
