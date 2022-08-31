@@ -1,4 +1,4 @@
-import { NextSeo } from "next-seo";
+import { NextSeo } from "next-seo"; 
 import Image from "next/image";
 import Layout from "../components/layout";
 import { PostGridItem, withGrid } from "../components/grid";
@@ -17,6 +17,7 @@ export default function Home({ menuItems, posts }) {
         >
           Next.js!
         </a>
+        <b>QA</b>
       </h1>
 
       <div className="text-2xl">
