@@ -15,7 +15,7 @@ export default function Home({ menuItems, posts }) {
           className="text-blue-600 no-underline hover:underline"
           href="https://nextjs.org"
         >
-          Next.js!
+          Next.js! QA
         </a>
       </h1>
 
