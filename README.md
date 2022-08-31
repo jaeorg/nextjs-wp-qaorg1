@@ -4,7 +4,7 @@ There are two ways to get started with the Next WordPress Starter:
 
 **Option 1**: Use `create-next-app`
 
-1. In your terminal, run the following command:
+1. In your terminal, run the following command: a
 
 ```bash
 npx create-next-app -e https://github.com/pantheon-systems/next-wordpress-starter --use-npm
