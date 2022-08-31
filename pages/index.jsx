@@ -17,7 +17,7 @@ export default function Home({ menuItems, posts }) {
         >
           Next.js!
         </a>
-        <b>QA</b>
+        <b>QA Multi-1</b>
       </h1>
 
       <div className="text-2xl">
